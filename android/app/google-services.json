@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "525564689109",
+    "firebase_url": "https://project-manager-inc-default-rtdb.firebaseio.com",
+    "project_id": "project-manager-inc",
+    "storage_bucket": "project-manager-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525564689109:android:c2ca94fe119ebeb6ac005c",
+        "android_client_info": {
+          "package_name": "com.ncdlab.webapp.project_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFu_3AefAqspl59K_fcy_g8K296Q6k4yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525564689109:android:08aecd5d75e28b99ac005c",
+        "android_client_info": {
+          "package_name": "com.project.manager.project_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFu_3AefAqspl59K_fcy_g8K296Q6k4yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
